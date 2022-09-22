@@ -1,0 +1,6 @@
+C:\Users\sa-gelayzutdinov\source\repos\Played\Played\bin\Debug\Played.exe.config
+C:\Users\sa-gelayzutdinov\source\repos\Played\Played\bin\Debug\Played.exe
+C:\Users\sa-gelayzutdinov\source\repos\Played\Played\bin\Debug\Played.pdb
+C:\Users\sa-gelayzutdinov\source\repos\Played\Played\obj\Debug\Played.csproj.CoreCompileInputs.cache
+C:\Users\sa-gelayzutdinov\source\repos\Played\Played\obj\Debug\Played.exe
+C:\Users\sa-gelayzutdinov\source\repos\Played\Played\obj\Debug\Played.pdb
